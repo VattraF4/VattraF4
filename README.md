@@ -1,31 +1,90 @@
-# 👨‍💻 Hi, I'm Yan Pich
+# 👨‍💻 Hi, I'm Ra Vattra
 
-**Building secure, scalable backend systems with enterprise-grade practices...**
+**Building practical business systems, scalable backend applications, and modern web solutions.**
 
 ---
 
 ## 🌟 Professional Summary
-I am a Backend Developer passionate about building secure, scalable APIs. I have hands-on experience developing real-world systems such as an Auto Spare Part Management API using Java Spring Boot, where I implemented authentication, role-based access control, and RESTful services.
-- 🎬 **Media:** Building [MovieFlix REST API](https://github.com/yanpich/MovieAPI) with JWT authentication and role-based access control.
-- 🔧 **E-Commerce:** Developing [AutoSparePart API](https://github.com/yanpich/autosparepart) for managing categories, products, and users with RESTful services.
-- 🎓 **Education:** Pursuing BSc Computer Science at RUPP University (2022–2026 | GPA: 3.07/4.0).
+
+I am a Computer Science student and aspiring Software Developer from Cambodia with experience in backend development, database design, and IT support. I enjoy building business applications that solve real-world problems, including inventory management systems, invoice tracking platforms, RESTful APIs, and ERP solutions.
+
+Currently, I work as an IT Support & General Admin while pursuing a Bachelor of Science in Computer Science and Engineering Technology at the Royal University of Phnom Penh (RUPP).
+
+* 🚀 **Backend Development:** Building RESTful APIs with Java Spring Boot, Laravel, and MySQL.
+* 📦 **ERP & Inventory Systems:** Designing scalable inventory, purchasing, sales, and stock management solutions.
+* 🌐 **Web Development:** Developing modern web applications using PHP, Laravel, React, Vite, and Tailwind CSS.
+* 🔧 **IT Support:** Managing business systems, troubleshooting technical issues, and improving operational workflows.
+* 🎓 **Education:** BSc in Computer Science & Engineering Technology, Royal University of Phnom Penh (2022–2026).
 
 ---
 
 ## 🛠 Core Technology Stack
 
 ### 💻 Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=java,php,html,css,js)](https://skillicons.dev)
+
+[![Programming Languages](https://skillicons.dev/icons?i=java,php,js,html,css)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=spring,hibernate,maven,bootstrap)](https://skillicons.dev)
+
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=spring,hibernate,laravel,react,bootstrap)](https://skillicons.dev)
 
 ### 🗄 Database & Infrastructure
-[![Database & Infrastructure](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+[![Database & Infrastructure](https://skillicons.dev/icons?i=mysql,docker)](https://skillicons.dev)
 
 ### 🛠 Tools & DevOps
-[![Tools & DevOps](https://skillicons.dev/icons?i=git,github,postman,vscode,linux,windows)](https://skillicons.dev)
 
+[![Tools & DevOps](https://skillicons.dev/icons?i=git,github,postman,vscode,linux)](https://skillicons.dev)
 
+---
 
-<br>
+## 📂 Featured Projects
+
+### 📦 Inventory & ERP Management System
+
+Enterprise-style inventory management system with support for:
+
+* Product & Category Management
+* Purchase & Sales Workflow
+* Stock Tracking
+* Serial Number Management
+* Warehouse Operations
+
+### 📄 Invoice Tracking System
+
+Business solution that helps track invoice status, payment terms, due dates, and automated notifications.
+
+### 🏨 Hotel Booking System
+
+Web-based hotel reservation platform developed using PHP and MySQL.
+
+### 🔌 RESTful APIs
+
+Building secure APIs with:
+
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+* CRUD Operations
+* Validation & Exception Handling
+* MySQL Database Integration
+
+---
+
+## 📈 Current Learning Focus
+
+* Spring Boot Microservices
+* System Design & Software Architecture
+* ERP & Business Process Automation
+* Cloud Deployment & DevOps
+* Database Optimization
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/VattraF4
+* Portfolio: https://ranavattra.com
+
+---
+
+⭐ *Passionate about building software that improves business operations and solves real-world challenges.*
