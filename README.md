@@ -26,7 +26,7 @@ Currently, I work as an IT Support & General Admin while pursuing a Bachelor of 
 
 ### 🚀 Frameworks & Libraries
 
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=spring,hibernate,laravel,react,bootstrap)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=spring,hibernate,laravel,react,bootstrap,flutter)](https://skillicons.dev)
 
 ### 🗄 Database & Infrastructure
 
