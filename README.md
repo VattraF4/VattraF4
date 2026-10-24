@@ -22,7 +22,7 @@ Currently, I work as an IT Support & General Admin while pursuing a Bachelor of 
 
 ### 💻 Programming Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=java,c#,dart,php,js,html,css)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=java,dart,php,js,html,css,,c#)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries
 
