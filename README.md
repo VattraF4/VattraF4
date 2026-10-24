@@ -22,11 +22,11 @@ Currently, I work as an IT Support & General Admin while pursuing a Bachelor of 
 
 ### 💻 Programming Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=java,php,js,html,css)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=java,c#,dart,php,js,html,css)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries
 
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=spring,hibernate,laravel,react,bootstrap,flutter)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=spring,hibernate,laravel,react,next,bootstrap,flutter)](https://skillicons.dev)
 
 ### 🗄 Database & Infrastructure
 
